@@ -4,6 +4,9 @@ A script designed to automate the training process for making Aimmy models. This
 # DISCLAIMER BEFORE YOU USE READ THIS NOW READ READ READ IT NOW NOW NOW
 This DOES NOT label your images for you. YOU MUST LABEL THE IMAGES ON MAKESENSE.AI YOURSELF. THIS ONLY INSTALLS DEPENDENCIES, CREATES FILE STRUCTURE, AND RUNS THE TRAINING COMMANDS FOR YOU. now you know thanks :)
 
+# how to install
+if youre weird download source code file and run it like tha otherwise download the pyinstalled version of it
+
 
 
 # FREQUENTLY ASKED QUESTIONS (i have gotten no questions at all so)
